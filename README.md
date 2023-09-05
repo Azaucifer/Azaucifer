@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/shmz.10/">
 <img align="left" alt="Azaucifer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://[x.com/shams_afnaan](https://twitter.com/shmz_10)">
+<a href="https://(https://twitter.com/shmz_10)">
 <img align="left" alt="Shams JD | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shamsjd/">
