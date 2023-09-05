@@ -1,13 +1,12 @@
 ### Hey there!👋
-<a href="https://www.instagram.com/shmz.10/">
-<img align="left" alt="Azaucifer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/shamsjd/">
-<img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Azaucifer.Azaucifer)
-
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Shamsjd)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/shmz_10)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/shmz_10)
+<p align="left">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=Azaucifer&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
 <br/>
 
 ### I'm [Syed Shams Junaid](https://https://github.com/Azaucifer/). 
