@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Building my portfolio.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Data Science related projects.
-- 🤔 I’m looking for help with NLP.
+- 🤔 I’m looking for more knowledge.
 - 💬 Ask me about Trading and Technical Analysis.
 - 📫 How to reach me: Click on any of the Social Badges on top.
 - ⚡ Fun fact: More than 80% of our ocean is unmapped, unobserved, and unexplored.
@@ -46,18 +46,11 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ ⚡  ⚡ ⚡</h2>
 <br>
   <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Azaucifer&theme=react&border=61dafb&hide_border=true" alt="Azaucifer"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Azaucifer&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Azaucifer&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+   
 <img src="https://github.com/Azaucifer/Profile/blob/main/google_dino.gif?raw=true" href="https://github.com/Azaucifer" width="85%"/><br>
 <img src="https://github.com/Azaucifer/Profile/blob/main/this%20page.gif?raw=true"  width="50%"/>
 
