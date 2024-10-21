@@ -14,10 +14,9 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="430" height="340"/>
 <br>
 
-- 🔬 I'm currently pursuing my Master's Degree in Data Science from IU Berlin.
 - 🔭 I’m currently working on Building my portfolio.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Data Science related projects.
+- 🔬 I’m currently learning Web Development & C.
+- 👯 I’m looking to collaborate on Web Development related projects.
 - 🤔 I’m looking for more knowledge.
 - 💬 Ask me about Trading and Technical Analysis.
 - 📫 How to reach me: Click on any of the Social Badges on top.
