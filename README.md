@@ -21,9 +21,9 @@
 - 💬 Ask me about Trading and Technical Analysis.
 - 📫 How to reach me: Click on any of the Social Badges on top.
 - ⚡ Fun fact: More than 80% of our ocean is unmapped, unobserved, and unexplored.
-
+<br>
   <div align="center" width="80">
-
+<br>
   <img src="https://github.com/Azaucifer/Profile/blob/main/coding.gif?raw=true" href="https://github.com/azaucifer" alt="CoDiNg RocKs"  width="80%"/><br>
 - 💼 Reach me at my [email](mailto:shamsjd96@gmail.com), if you have any freelance work or if you would like to hire me.
 <hr>
