@@ -2,25 +2,40 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Syed Shams Junaid on LinkedIn" title="Follow Syed Shams Junaid on LinkedIn"/>](https://linkedin.com/in/Shamsjd)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Syed Shams Junaid1 on Twitter" title="Follow Syed Shams Junaid on Twitter"/>](https://twitter.com/shmz_10)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Syed Shams Junaid on Instagram" title="Follow Syed Shams Junaid on Instagram"/>](https://instagram.com/shmz_10)
-<p align="left">
+<p align="center">
   <a href="#">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=Azaucifer&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Azaucifer/count.svg" />
 </p>
+
 <br/>
 
 ### I'm [Syed Shams Junaid](https://https://github.com/Azaucifer/). 
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="430" height="340"/>
-<br>
+<table>
+  <tr>
+    <td style="vertical-align: middle; text-align: center;">
+      <ul>
+        <li>🔭 Currently Building: Working on my portfolio to showcase my projects and skills in web development.</li>
+        <li>🔬 Learning Journey: Exploring the worlds of Web Development and C programming.</li>
+        <li>👯 Collaboration Goals: Open to collaborating on exciting Web Development projects. Let's create something great together!</li>
+        <li>🤔 Curious Mind: Always on the lookout for new knowledge and skills to expand my expertise..</li>
+        <li>💬 Ask Me About: Trading and Technical Analysis – I’m happy to share what I know!</li>
+        <li>📫 Get in Touch: Reach me by clicking any of the Social Badges above.</li>
+        <li>⚡ Did You Know? More than 80% of our ocean remains unmapped, unobserved, and unexplored. There's still so much mystery left on our planet!</li>
+      </ul>
+    </td>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Technology GIF" width="300">
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on Building my portfolio.
-- 🔬 I’m currently learning Web Development & C.
-- 👯 I’m looking to collaborate on Web Development related projects.
-- 🤔 I’m looking for more knowledge.
-- 💬 Ask me about Trading and Technical Analysis.
-- 📫 How to reach me: Click on any of the Social Badges on top.
-- ⚡ Fun fact: More than 80% of our ocean is unmapped, unobserved, and unexplored.
+<br>
 
   <div align="center" width="80">
 
