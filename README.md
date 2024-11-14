@@ -8,7 +8,7 @@
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Syed Shams Junaid on LinkedIn" title="Follow Syed Shams Junaid on LinkedIn"/>](https://linkedin.com/in/Shamsjd)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Syed Shams Junaid1 on Twitter" title="Follow Syed Shams Junaid on Twitter"/>](https://twitter.com/shmz_10)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Syed Shams Junaid on Instagram" title="Follow Syed Shams Junaid on Instagram"/>](https://instagram.com/shmz_10)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Syed Shams Junaid on Instagram" title="Follow Syed Shams Junaid on Instagram"/>](https://instagram.com/shmz.10)
 <p align="center">
   <a href="#">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=Azaucifer&repo=github-visitors-badge&countColor=%237B1E7A" />
