@@ -47,10 +47,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Azaucifer&show_icons=true&locale=en&theme=radical" alt="Azaucifer" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Azaucifer&include_all_commits=true&count_private=true&count_public=true&theme=radical" /></p></br>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azaucifer&include_all_commits=true&count_private=true&count_public=true&theme=radical" alt="Azaucifer's Streak Stats" />
+</p>
 
   <img src="https://github.com/Azaucifer/Profile/blob/main/coding.gif?raw=true" href="https://github.com/azaucifer" alt="CoDiNg RocKs"  width="80%"/><br>
  💼  Feel free to contact me via [Email](mailto:shamsjd96@gmail.com) for freelance opportunities or if you are interested in hiring me.
