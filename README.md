@@ -36,6 +36,8 @@
   </table>
 </div>
 <br>
+  
+<hr>
 
   <div align="center" width="80">
 
