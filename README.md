@@ -60,11 +60,15 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,c,github,vscode,linux,windows&theme=light)](https://skillicons.dev)  <img height="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">  <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f">  <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b">
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,c,github,vscode,linux,windows&theme=light)](https://skillicons.dev)
+<img height="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
+<img height="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" alt="excel.svg">
+<img src="https://www.kindpng.com/picc/m/713-7136289_rougier-numpy-logo-name-below-02-python-numpy.png" alt="NumPy Logo" height="50" width="50">
+<img src="https://logowik.com/content/uploads/images/pandas8580.logowik.com.webp" alt="Pandas Logo" height="50">
+<img src="https://tse4.mm.bing.net/th?id=OIP.vBqgxaRdXcSFs6xhbzHl_QHaCe&pid=Api&P=0&h=180" alt="Image" height="50">
+<img src="https://tse3.mm.bing.net/th?id=OIP.w-qTcyA4TSToAE1FZlj5nwHaEK&pid=Api&P=0&h=180" alt="Image" height="50">
+<img src="https://up.yimg.com/ib/th?id=OIP.y4h1pM-yrYmcBamco_f97AHaDL&pid=Api&rs=1&c=1&qlt=95&w=245&h=105" alt="Image" height="50">
+
 
 <hr>
 </div>
