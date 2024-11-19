@@ -61,7 +61,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,c,github,vscode,linux,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,c,git,github,vscode,linux,windows&theme=light)](https://skillicons.dev)
 <img height="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
 <img height="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" alt="excel.svg">
 <img src="https://www.kindpng.com/picc/m/713-7136289_rougier-numpy-logo-name-below-02-python-numpy.png" alt="NumPy Logo" height="50" width="50">
