@@ -45,9 +45,9 @@
 <h2 align="center" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> ⚡Github Stats⚡ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></b>
 </h2>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azaucifer&show_icons=true&locale=en&layout=compact&theme=radical" alt="Azaucifer" </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azaucifer&show_icons=true&locale=en&layout=compact&theme=radical" alt="Azaucifer" </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Azaucifer&show_icons=true&locale=en&theme=radical" alt="Azaucifer" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Azaucifer&show_icons=true&locale=en&theme=radical" alt="Azaucifer" /></p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azaucifer&include_all_commits=true&count_private=true&count_public=true&theme=radical" alt="Azaucifer's Streak Stats" />
