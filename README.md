@@ -54,7 +54,7 @@
 </p>
 
   <img src="https://github.com/Azaucifer/Profile/blob/main/coding.gif?raw=true" href="https://github.com/azaucifer" alt="CoDiNg RocKs"  width="80%"/><br>
- 💼  Feel free to contact me via [Email](mailto:shamsjd96@gmail.com) for freelance opportunities or if you are interested in hiring me.
+ 💼  Feel free to contact me via my [Email](mailto:shamsjd96@gmail.com) for freelance opportunities or if you are interested in hiring me.
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
