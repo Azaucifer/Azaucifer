@@ -21,7 +21,7 @@
       <td style="vertical-align: middle; text-align: center;">
         <ul>
           <li><strong>🔭 Currently Building:</strong> Working on my portfolio to showcase my projects and skills in web development.</li>
-          <li><strong>🔬 Learning Journey:</strong> Exploring the worlds of Web Development and C programming.</li>
+          <li><strong>🔬 Learning Journey:</strong> Currently completing CS50.</li>
           <li><strong>👯 Collaboration Goals:</strong> Open to collaborating on exciting Web Development projects. Let's create something great together!</li>
           <li><strong>🤔 Curious Mind:</strong> Always on the lookout for new knowledge and skills to expand my expertise..</li>
           <li><strong>💬 Ask Me About:</strong> Trading and Technical Analysis – I’m happy to share what I know!</li>
