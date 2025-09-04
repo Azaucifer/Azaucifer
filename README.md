@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=32&pause=1000&width=535&lines=🧑🏽‍💻HI%2C+I'M+SYED+SHAMS+JUNAID;💻FRONTEND+DEVELOPER;🫱🏼‍🫲🏽OPEN+SOURCE+CONTRIBUTOR;🥷🏽CYBERSECURITY+ENTHUSIAST" alt="Typing SVG">
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BBSYED+SHAMS+JUNAID;%F0%9F%92%BBDATA+ANALYST;%F0%9F%AB%B1%F0%9F%8F%BC%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BDOPEN+SOURCE+CONTRIBUTOR;%F0%9F%A5%B7%F0%9F%8F%BDCYBERSECURITY+ENTHUSIAST" alt="Typing SVG" /></a>
 </p>
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Azaucifer?label=Follow%20Me&style=social)](https://github.com/Azaucifer) <br>
