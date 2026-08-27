@@ -19,7 +19,7 @@
       <td style="vertical-align: middle; text-align: center;">
         <ul>
           <li><strong>🔭 Currently Building:</strong> Working on my portfolio to showcase my projects and skills.</li>
-          <li><strong>🔬 Learning Journey:</strong> Grinding CS50P.</li>
+          <li><strong>🔬 Learning Journey:</strong> Conquered CS50P.</li>
           <li><strong>👯 Collaboration Goals:</strong> Open to collaborating on exciting Development projects. Let's create something great together!</li>
           <li><strong>🤔 Curious Mind:</strong> Always on the lookout for new knowledge and skills to expand my expertise..</li>
           <li><strong>💬 Ask Me About:</strong> Trading and Technical Analysis – I’m happy to share what I know!</li>
