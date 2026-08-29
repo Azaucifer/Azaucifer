@@ -37,19 +37,67 @@ I'm currently working with **Python and C**, while exploring software developmen
   <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
-<h3 align="center">🔧 Tools & Technologies</h3>
+<h3 align="center">🧰 Development & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
 </p>
 
-<h3 align="center">📊 Data & Development</h3>
+<h3 align="center">📊 Data & Analytics</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
+  <img height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Microsoft Excel" />
+  <img height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+  <img height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" />
 </p>
+
+<h3 align="center">🧠 Programming Concepts</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">🧩</td>
+    <td>Data Structures</td>
+  </tr>
+  <tr>
+    <td align="center">🧮</td>
+    <td>Algorithms</td>
+  </tr>
+  <tr>
+    <td align="center">🏗️</td>
+    <td>Object-Oriented Programming</td>
+  </tr>
+  <tr>
+    <td align="center">📁</td>
+    <td>File I/O</td>
+  </tr>
+  <tr>
+    <td align="center">🔤</td>
+    <td>Regular Expressions</td>
+  </tr>
+  <tr>
+    <td align="center">🧪</td>
+    <td>Unit Testing</td>
+  </tr>
+  <tr>
+    <td align="center">⚠️</td>
+    <td>Exception Handling</td>
+  </tr>
+  <tr>
+    <td align="center">👉</td>
+    <td>Pointers</td>
+  </tr>
+  <tr>
+    <td align="center">🧠</td>
+    <td>Dynamic Memory Management</td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td>Command-Line Applications</td>
+  </tr>
+</table>
 
 ---
 
