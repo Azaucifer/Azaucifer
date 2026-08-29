@@ -65,16 +65,13 @@ I'm currently working with **Python and C**, while exploring software developmen
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaucifer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Azaucifer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azaucifer&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
