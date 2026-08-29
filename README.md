@@ -67,8 +67,6 @@ I'm currently working with **Python and C**, while exploring software developmen
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Azaucifer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
