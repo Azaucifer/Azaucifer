@@ -70,20 +70,33 @@ I'm currently working with **Python and C**, while exploring software developmen
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Azaucifer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 ## 🤝 Let's Connect
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/Shamsjd">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:shamsjd96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/Azaucifer">
-    <img src="https://img.shields.io/badge/GitHub-Azaucifer-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   </a>
+  &nbsp;
+  <a href="https://instagram.com/shmz.10">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💬 Always open to interesting conversations, collaborations, and opportunities.</i>
 </p>
 
 ---
