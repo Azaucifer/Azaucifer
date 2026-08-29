@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 I'm **Syed Shams Junaid**, a software developer focused on building practical applications and improving my programming fundamentals.
 
