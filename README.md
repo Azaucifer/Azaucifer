@@ -29,23 +29,23 @@ I'm currently working with **Python and C**, while exploring software developmen
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
-### 🔧 Tools & Technologies
+<h3 align="center">🔧 Tools & Technologies</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
 </p>
 
-### 📊 Data & Development
+<h3 align="center">📊 Data & Development</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
@@ -53,27 +53,48 @@ I'm currently working with **Python and C**, while exploring software developmen
 
 ---
 
-## 📚 Currently Learning
+<h2 align="center">📚 Currently Learning</h2>
 
-* 🐍 Advanced Python
-* ⚙️ C programming & memory management
-* 🧠 Data Structures & Algorithms
-* 🗄️ SQL
-* 🌐 Backend Development
-* 🐧 Linux
-* 🔀 Git & GitHub
+<table align="center">
+  <tr>
+    <td>🐍</td>
+    <td>Advanced Python</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td>C Programming & Memory Management</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td>Data Structures & Algorithms</td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td>SQL</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Backend Development</td>
+  </tr>
+  <tr>
+    <td>🐧</td>
+    <td>Linux</td>
+  </tr>
+  <tr>
+    <td>🔀</td>
+    <td>Git & GitHub</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Azaucifer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
-
-## 🤝 Let's Connect
 
 <h2 align="center">🌐 Connect With Me</h2>
 
