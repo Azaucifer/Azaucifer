@@ -16,16 +16,44 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-I'm **Syed Shams Junaid**, a software developer focused on building practical applications and improving my programming fundamentals.
+I'm **Syed Shams Junaid**, a software developer focused on building practical applications and strengthening my software engineering fundamentals.
 
-I'm currently working with **Python and C**, while exploring software development, open-source projects, and systems programming.
+I'm currently working with **Python and C**, with hands-on experience in backend development using **Flask and SQLite**, along with software testing, open-source development, and systems programming.
 
-* 💻 Building practical software projects
-* 🐍 Developing with Python
-* ⚙️ Strengthening my C and programming fundamentals
-* 🌐 Exploring software development and open source
-* 📚 Continuously learning and improving
-* 🤝 Open to interesting development and open-source collaborations
+<table align="center">
+  <tr>
+    <td align="center">💻</td>
+    <td align="center">Building practical software projects</td>
+  </tr>
+  <tr>
+    <td align="center">🐍</td>
+    <td align="center">Developing with Python</td>
+  </tr>
+  <tr>
+    <td align="center">⚙️</td>
+    <td align="center">Building with C and applying programming fundamentals</td>
+  </tr>
+  <tr>
+    <td align="center">🌐</td>
+    <td align="center">Building backend applications with Flask</td>
+  </tr>
+  <tr>
+    <td align="center">🗄️</td>
+    <td align="center">Working with SQLite and SQL</td>
+  </tr>
+  <tr>
+    <td align="center">🧪</td>
+    <td align="center">Writing and running automated tests with pytest</td>
+  </tr>
+  <tr>
+    <td align="center">🤝</td>
+    <td align="center">Contributing to open-source projects</td>
+  </tr>
+  <tr>
+    <td align="center">📚</td>
+    <td align="center">Continuously learning and improving</td>
+  </tr>
+</table>
 
 ---
 
@@ -37,6 +65,12 @@ I'm currently working with **Python and C**, while exploring software developmen
   <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
+<h3 align="center">🌐 Backend & Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql" />
+</p>
+
 <h3 align="center">🧰 Development & Tools</h3>
 
 <p align="center">
@@ -46,7 +80,6 @@ I'm currently working with **Python and C**, while exploring software developmen
 <h3 align="center">📊 Data & Analytics</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
   <img height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Microsoft Excel" />
@@ -109,16 +142,12 @@ I'm currently working with **Python and C**, while exploring software developmen
     <td>Advanced Python</td>
   </tr>
   <tr>
-    <td>⚙️</td>
-    <td>C Programming & Memory Management</td>
-  </tr>
-  <tr>
     <td>🧠</td>
     <td>Data Structures & Algorithms</td>
   </tr>
   <tr>
     <td>🗄️</td>
-    <td>SQL</td>
+    <td>Advanced SQL</td>
   </tr>
   <tr>
     <td>🌐</td>
@@ -157,10 +186,6 @@ I'm currently working with **Python and C**, while exploring software developmen
   &nbsp;
   <a href="https://github.com/Azaucifer">
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/shmz.10">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
   </a>
 </p>
 
